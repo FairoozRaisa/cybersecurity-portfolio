@@ -93,6 +93,8 @@ These activities improved my understanding of attack techniques, investigation w
 **Tools:** Nmap  
 **Methodology:** Host discovery → port scanning → service enumeration → interpretation of results  
 **Outcome:** Improved ability to identify network exposure and discuss basic risk mitigation strategies.
+📄 Details: `projects/vulnerability-scanning-nmap.md`
+
 
 ---
 
@@ -101,6 +103,7 @@ These activities improved my understanding of attack techniques, investigation w
 **Tools:** Wireshark  
 **Methodology:** Packet capture → filtering → protocol field analysis (TCP, DNS, HTTP)  
 **Outcome:** Developed packet-level troubleshooting and traffic interpretation skills.
+📄 Details: `projects/wireshark-traffic-analysis.md`
 
 ---
 
