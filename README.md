@@ -194,4 +194,5 @@ To begin my career as a cybersecurity analyst or SOC analyst, with long-term goa
 ## Contact
 - GitHub: https://github.com/FairoozRaisa  
 - LinkedIn: https://www.linkedin.com/in/khanfairooz
-- Email: khan.habibafairooz@gmail.com
+
+        
